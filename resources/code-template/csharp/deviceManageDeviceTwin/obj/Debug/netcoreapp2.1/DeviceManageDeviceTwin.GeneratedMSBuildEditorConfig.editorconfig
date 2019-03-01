@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DeviceManageDeviceTwin
+build_property.ProjectDir = C:\Users\win-1\Source\Repos\rossburnette-team\vscode-azure-iot-toolkit\resources\code-template\csharp\deviceManageDeviceTwin\
